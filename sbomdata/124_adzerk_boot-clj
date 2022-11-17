@@ -1,0 +1,859 @@
+NAME                                                                            VERSION                    TYPE         
+US_export_policy                                                                                           java-archive  
+aether                                                                          2.5.2                      java-archive  
+aether-api                                                                      1.13.1                     java-archive  
+aether-connector-file                                                           1.13.1                     java-archive  
+aether-connector-wagon                                                          1.13.1                     java-archive  
+aether-impl                                                                     1.13.1                     java-archive  
+aether-spi                                                                      1.13.1                     java-archive  
+aether-util                                                                     1.13.1                     java-archive  
+aether.uber                                                                                                java-archive  
+ant-javafx                                                                                                 java-archive  
+apt                                                                             0.9.7.9+deb7u7             deb           
+base                                                                            2.5.2                      java-archive  
+base-files                                                                      7.1wheezy9                 deb           
+base-passwd                                                                     3.5.26                     deb           
+bash                                                                            4.2+dfsg-0.1+deb7u3        deb           
+boot                                                                                                       java-archive  
+boot                                                                            2.5.5                      java-archive  
+boot_ja                                                                                                    java-archive  
+boot_zh_CN                                                                                                 java-archive  
+bsdutils                                                                        1:2.20.1-5.3               deb           
+ca-certificates                                                                 20130119+deb7u1            deb           
+charsets                                                                                                   java-archive  
+cldrdata                                                                                                   java-archive  
+clojure                                                                         1.6.0                      java-archive  
+clojure                                                                         1.7.0                      java-archive  
+com-sun-tools-visualvm-api-caching                                                                         java-archive  
+com-sun-tools-visualvm-api-caching_ja                                                                      java-archive  
+com-sun-tools-visualvm-api-caching_zh_CN                                                                   java-archive  
+com-sun-tools-visualvm-application                                                                         java-archive  
+com-sun-tools-visualvm-application-views                                                                   java-archive  
+com-sun-tools-visualvm-application-views_ja                                                                java-archive  
+com-sun-tools-visualvm-application-views_zh_CN                                                             java-archive  
+com-sun-tools-visualvm-application_ja                                                                      java-archive  
+com-sun-tools-visualvm-application_zh_CN                                                                   java-archive  
+com-sun-tools-visualvm-attach                                                                              java-archive  
+com-sun-tools-visualvm-attach_ja                                                                           java-archive  
+com-sun-tools-visualvm-attach_zh_CN                                                                        java-archive  
+com-sun-tools-visualvm-charts                                                                              java-archive  
+com-sun-tools-visualvm-charts_ja                                                                           java-archive  
+com-sun-tools-visualvm-charts_zh_CN                                                                        java-archive  
+com-sun-tools-visualvm-core                                                                                java-archive  
+com-sun-tools-visualvm-core_ja                                                                             java-archive  
+com-sun-tools-visualvm-core_zh_CN                                                                          java-archive  
+com-sun-tools-visualvm-coredump                                                                            java-archive  
+com-sun-tools-visualvm-coredump_ja                                                                         java-archive  
+com-sun-tools-visualvm-coredump_zh_CN                                                                      java-archive  
+com-sun-tools-visualvm-heapdump                                                                            java-archive  
+com-sun-tools-visualvm-heapdump_ja                                                                         java-archive  
+com-sun-tools-visualvm-heapdump_zh_CN                                                                      java-archive  
+com-sun-tools-visualvm-host                                                                                java-archive  
+com-sun-tools-visualvm-host-remote                                                                         java-archive  
+com-sun-tools-visualvm-host-remote_ja                                                                      java-archive  
+com-sun-tools-visualvm-host-remote_zh_CN                                                                   java-archive  
+com-sun-tools-visualvm-host-views                                                                          java-archive  
+com-sun-tools-visualvm-host-views_ja                                                                       java-archive  
+com-sun-tools-visualvm-host-views_zh_CN                                                                    java-archive  
+com-sun-tools-visualvm-host_ja                                                                             java-archive  
+com-sun-tools-visualvm-host_zh_CN                                                                          java-archive  
+com-sun-tools-visualvm-jmx                                                                                 java-archive  
+com-sun-tools-visualvm-jmx_ja                                                                              java-archive  
+com-sun-tools-visualvm-jmx_zh_CN                                                                           java-archive  
+com-sun-tools-visualvm-jvm                                                                                 java-archive  
+com-sun-tools-visualvm-jvm_ja                                                                              java-archive  
+com-sun-tools-visualvm-jvm_zh_CN                                                                           java-archive  
+com-sun-tools-visualvm-jvmstat                                                                             java-archive  
+com-sun-tools-visualvm-jvmstat_ja                                                                          java-archive  
+com-sun-tools-visualvm-jvmstat_zh_CN                                                                       java-archive  
+com-sun-tools-visualvm-modules-appui                                                                       java-archive  
+com-sun-tools-visualvm-modules-appui_ja                                                                    java-archive  
+com-sun-tools-visualvm-modules-appui_zh_CN                                                                 java-archive  
+com-sun-tools-visualvm-modules-startup                                                                     java-archive  
+com-sun-tools-visualvm-modules-startup_ja                                                                  java-archive  
+com-sun-tools-visualvm-modules-startup_zh_CN                                                               java-archive  
+com-sun-tools-visualvm-profiler                                                                            java-archive  
+com-sun-tools-visualvm-profiler_ja                                                                         java-archive  
+com-sun-tools-visualvm-profiler_zh_CN                                                                      java-archive  
+com-sun-tools-visualvm-profiling                                                                           java-archive  
+com-sun-tools-visualvm-profiling_ja                                                                        java-archive  
+com-sun-tools-visualvm-profiling_zh_CN                                                                     java-archive  
+com-sun-tools-visualvm-sa                                                                                  java-archive  
+com-sun-tools-visualvm-sa_ja                                                                               java-archive  
+com-sun-tools-visualvm-sa_zh_CN                                                                            java-archive  
+com-sun-tools-visualvm-sampler                                                                             java-archive  
+com-sun-tools-visualvm-sampler_ja                                                                          java-archive  
+com-sun-tools-visualvm-sampler_zh_CN                                                                       java-archive  
+com-sun-tools-visualvm-threaddump                                                                          java-archive  
+com-sun-tools-visualvm-threaddump_ja                                                                       java-archive  
+com-sun-tools-visualvm-threaddump_zh_CN                                                                    java-archive  
+com-sun-tools-visualvm-tools                                                                               java-archive  
+com-sun-tools-visualvm-tools_ja                                                                            java-archive  
+com-sun-tools-visualvm-tools_zh_CN                                                                         java-archive  
+com-sun-tools-visualvm-uisupport                                                                           java-archive  
+com-sun-tools-visualvm-uisupport_ja                                                                        java-archive  
+com-sun-tools-visualvm-uisupport_zh_CN                                                                     java-archive  
+com.ibm.icu_4.4.2.v20110823                                                     4.4.2.v20110823            java-archive  
+com.jrockit.mc.alert.ja_5.4.0.162463                                            5.4.0.162463               java-archive  
+com.jrockit.mc.alert.zh_CN_5.4.0.162463                                         5.4.0.162463               java-archive  
+com.jrockit.mc.alert_5.4.0.162463                                               5.4.0.162463               java-archive  
+com.jrockit.mc.attach_5.4.0.162463                                              5.4.0.162463               java-archive  
+com.jrockit.mc.browser.attach.ja_5.4.0.162463                                   5.4.0.162463               java-archive  
+com.jrockit.mc.browser.attach.zh_CN_5.4.0.162463                                5.4.0.162463               java-archive  
+com.jrockit.mc.browser.attach_5.4.0.162463                                      5.4.0.162463               java-archive  
+com.jrockit.mc.browser.ja_5.4.0.162463                                          5.4.0.162463               java-archive  
+com.jrockit.mc.browser.jdp.ja_5.4.0.162463                                      5.4.0.162463               java-archive  
+com.jrockit.mc.browser.jdp.zh_CN_5.4.0.162463                                   5.4.0.162463               java-archive  
+com.jrockit.mc.browser.jdp_5.4.0.162463                                         5.4.0.162463               java-archive  
+com.jrockit.mc.browser.zh_CN_5.4.0.162463                                       5.4.0.162463               java-archive  
+com.jrockit.mc.browser_5.4.0.162463                                             5.4.0.162463               java-archive  
+com.jrockit.mc.commands_5.4.0.162463                                            5.4.0.162463               java-archive  
+com.jrockit.mc.common_5.4.0.162463                                              5.4.0.162463               java-archive  
+com.jrockit.mc.components.ui.ja_5.4.0.162463                                    5.4.0.162463               java-archive  
+com.jrockit.mc.components.ui.zh_CN_5.4.0.162463                                 5.4.0.162463               java-archive  
+com.jrockit.mc.components.ui_5.4.0.162463                                       5.4.0.162463               java-archive  
+com.jrockit.mc.console.historicaldata.ja_5.4.0.162463                           5.4.0.162463               java-archive  
+com.jrockit.mc.console.historicaldata.zh_CN_5.4.0.162463                        5.4.0.162463               java-archive  
+com.jrockit.mc.console.historicaldata_5.4.0.162463                              5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.diagnostic.ja_5.4.0.162463                            5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.diagnostic.zh_CN_5.4.0.162463                         5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.diagnostic_5.4.0.162463                               5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.ja_5.4.0.162463                                       5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.mbeanbrowser.ja_5.4.0.162463                          5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.mbeanbrowser.zh_CN_5.4.0.162463                       5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.mbeanbrowser_5.4.0.162463                             5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.notification.ja_5.4.0.162463                          5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.notification.zh_CN_5.4.0.162463                       5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui.zh_CN_5.4.0.162463                                    5.4.0.162463               java-archive  
+com.jrockit.mc.console.ui_5.4.0.162463                                          5.4.0.162463               java-archive  
+com.jrockit.mc.core_5.4.0.162463                                                5.4.0.162463               java-archive  
+com.jrockit.mc.docs.ja_5.4.0.162463                                             5.4.0.162463               java-archive  
+com.jrockit.mc.docs.zh_CN_5.4.0.162463                                          5.4.0.162463               java-archive  
+com.jrockit.mc.docs_5.4.0.162463                                                5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder.configuration_5.4.0.162463                        5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder.controlpanel.ui.configuration_5.4.0.162463        5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder.controlpanel.ui.ja_5.4.0.162463                   5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder.controlpanel.ui.zh_CN_5.4.0.162463                5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder.controlpanel.ui_5.4.0.162463                      5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder.ui.ja_5.4.0.162463                                5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder.ui.zh_CN_5.4.0.162463                             5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder.ui_5.4.0.162463                                   5.4.0.162463               java-archive  
+com.jrockit.mc.flightrecorder_5.4.0.162463                                      5.4.0.162463               java-archive  
+com.jrockit.mc.greychart.ui.ja_5.4.0.162463                                     5.4.0.162463               java-archive  
+com.jrockit.mc.greychart.ui.zh_CN_5.4.0.162463                                  5.4.0.162463               java-archive  
+com.jrockit.mc.greychart.ui_5.4.0.162463                                        5.4.0.162463               java-archive  
+com.jrockit.mc.greychartplugin_5.4.0.162463                                     5.4.0.162463               java-archive  
+com.jrockit.mc.jdp_5.4.0.162463                                                 5.4.0.162463               java-archive  
+com.jrockit.mc.rcp.application.ja_5.4.0.162463                                  5.4.0.162463               java-archive  
+com.jrockit.mc.rcp.application.zh_CN_5.4.0.162463                               5.4.0.162463               java-archive  
+com.jrockit.mc.rcp.application_5.4.0.162463                                     5.4.0.162463               java-archive  
+com.jrockit.mc.rcp.intro.ja_5.4.0.162463                                        5.4.0.162463               java-archive  
+com.jrockit.mc.rcp.intro.zh_CN_5.4.0.162463                                     5.4.0.162463               java-archive  
+com.jrockit.mc.rcp.intro_5.4.0.162463                                           5.4.0.162463               java-archive  
+com.jrockit.mc.rjmx.ext_5.4.0.162463                                            5.4.0.162463               java-archive  
+com.jrockit.mc.rjmx.ja_5.4.0.162463                                             5.4.0.162463               java-archive  
+com.jrockit.mc.rjmx.ui.ja_5.4.0.162463                                          5.4.0.162463               java-archive  
+com.jrockit.mc.rjmx.ui.zh_CN_5.4.0.162463                                       5.4.0.162463               java-archive  
+com.jrockit.mc.rjmx.ui_5.4.0.162463                                             5.4.0.162463               java-archive  
+com.jrockit.mc.rjmx.zh_CN_5.4.0.162463                                          5.4.0.162463               java-archive  
+com.jrockit.mc.ui.ja_5.4.0.162463                                               5.4.0.162463               java-archive  
+com.jrockit.mc.ui.zh_CN_5.4.0.162463                                            5.4.0.162463               java-archive  
+com.jrockit.mc.ui_5.4.0.162463                                                  5.4.0.162463               java-archive  
+com.sun.el_2.2.0.v201108011116                                                  2.2.0.v201108011116        java-archive  
+commons-codec                                                                   1.4                        java-archive  
+commons-io                                                                      2.0.1                      java-archive  
+commons-logging                                                                 1.1.1                      java-archive  
+core                                                                                                       java-archive  
+core_ja                                                                                                    java-archive  
+core_zh_CN                                                                                                 java-archive  
+coreutils                                                                       8.13-3.5                   deb           
+curl                                                                            7.26.0-1+wheezy13          deb           
+dash                                                                            0.5.7-3                    deb           
+debconf                                                                         1.5.49                     deb           
+debconf-i18n                                                                    1.5.49                     deb           
+debian-archive-keyring                                                          2014.3~deb7u1              deb           
+debianutils                                                                     4.3.2                      deb           
+deploy                                                                                                     java-archive  
+derby                                                                           10.10.1000003.1557168      java-archive  
+derbyLocale_cs                                                                                             java-archive  
+derbyLocale_de_DE                                                                                          java-archive  
+derbyLocale_es                                                                                             java-archive  
+derbyLocale_fr                                                                                             java-archive  
+derbyLocale_hu                                                                                             java-archive  
+derbyLocale_it                                                                                             java-archive  
+derbyLocale_ja_JP                                                                                          java-archive  
+derbyLocale_ko_KR                                                                                          java-archive  
+derbyLocale_pl                                                                                             java-archive  
+derbyLocale_pt_BR                                                                                          java-archive  
+derbyLocale_ru                                                                                             java-archive  
+derbyLocale_zh_CN                                                                                          java-archive  
+derbyLocale_zh_TW                                                                                          java-archive  
+derbyclient                                                                     10.10.1000003.1557168      java-archive  
+derbynet                                                                                                   java-archive  
+derbyrun                                                                                                   java-archive  
+derbytools                                                                                                 java-archive  
+diffutils                                                                       1:3.2-6                    deb           
+director-ant                                                                                               java-archive  
+dnsns                                                                                                      java-archive  
+dpkg                                                                            1.16.17                    deb           
+dsn                                                                             1.4.6                      java-archive  
+dt                                                                                                         java-archive  
+dynapath                                                                        0.2.3                      java-archive  
+e2fslibs                                                                        1.42.5-1.1+deb7u1          deb           
+e2fsprogs                                                                       1.42.5-1.1+deb7u1          deb           
+findutils                                                                       4.4.2-4                    deb           
+gcc-4.7-base                                                                    4.7.2-5                    deb           
+gimap                                                                           1.4.6                      java-archive  
+gnupg                                                                           1.4.12-7+deb7u7            deb           
+gpgv                                                                            1.4.12-7+deb7u7            deb           
+grep                                                                            2.12-2                     deb           
+gzip                                                                            1.5-1.1                    deb           
+helpbase-ant                                                                                               java-archive  
+hostname                                                                        3.11                       deb           
+httpclient                                                                      4.1.2                      java-archive  
+httpcore                                                                        4.1.2                      java-archive  
+imap                                                                            1.4.6                      java-archive  
+inetutils-ping                                                                  2:1.9-2                    deb           
+initscripts                                                                     2.88dsf-41+deb7u1          deb           
+insserv                                                                         1.14.0-5                   deb           
+iproute                                                                         20120521-3+b3              deb           
+jarprocessor-ant                                                                                           java-archive  
+javafx-mx                                                                                                  java-archive  
+javaws                                                                                                     java-archive  
+javax.el_2.2.0.v201108011116                                                    2.2.0.v201108011116        java-archive  
+javax.servlet.jsp_2.2.0.v201112011158                                           2.2.0.v201112011158        java-archive  
+javax.servlet_3.0.0.v201112011016                                               3.0.0.v201112011016        java-archive  
+jce                                                                             1.8.0_25                   java-archive  
+jconsole                                                                                                   java-archive  
+jetty-continuation                                                              8.1.3.v20120522            java-archive  
+jetty-http                                                                      8.1.3.v20120522            java-archive  
+jetty-io                                                                        8.1.3.v20120522            java-archive  
+jetty-security                                                                  8.1.3.v20120522            java-archive  
+jetty-server                                                                    8.1.3.v20120522            java-archive  
+jetty-servlet                                                                   8.1.3.v20120522            java-archive  
+jetty-util                                                                      8.1.3.v20120522            java-archive  
+jfluid-server                                                                                              java-archive  
+jfluid-server                                                                   15                         java-archive  
+jfluid-server_ja                                                                                           java-archive  
+jfluid-server_zh_CN                                                                                        java-archive  
+jfr                                                                             1.8.0_25                   java-archive  
+jfxrt                                                                                                      java-archive  
+jfxswt                                                                                                     java-archive  
+jhall                                                                           2.0_05                     java-archive  
+jsoup                                                                           1.6.1                      java-archive  
+jsse                                                                            1.8.0_25                   java-archive  
+krb5-locales                                                                    1.10.1+dfsg-5+deb7u6       deb           
+libacl1                                                                         2.2.51-8                   deb           
+libapt-pkg4.12                                                                  0.9.7.9+deb7u7             deb           
+libattr1                                                                        1:2.4.46-8                 deb           
+libblkid1                                                                       2.20.1-5.3                 deb           
+libbz2-1.0                                                                      1.0.6-4                    deb           
+libc-bin                                                                        2.13-38+deb7u8             deb           
+libc6                                                                           2.13-38+deb7u8             deb           
+libcomerr2                                                                      1.42.5-1.1+deb7u1          deb           
+libcurl3                                                                        7.26.0-1+wheezy13          deb           
+libdb5.1                                                                        5.1.29-5                   deb           
+libgcc1                                                                         1:4.7.2-5                  deb           
+libgcrypt11                                                                     1.5.0-5+deb7u3             deb           
+libgnutls26                                                                     2.12.20-8+deb7u4           deb           
+libgpg-error0                                                                   1.10-3.1                   deb           
+libgssapi-krb5-2                                                                1.10.1+dfsg-5+deb7u6       deb           
+libidn11                                                                        1.25-2                     deb           
+libk5crypto3                                                                    1.10.1+dfsg-5+deb7u6       deb           
+libkeyutils1                                                                    1.5.5-3+deb7u1             deb           
+libkrb5-3                                                                       1.10.1+dfsg-5+deb7u6       deb           
+libkrb5support0                                                                 1.10.1+dfsg-5+deb7u6       deb           
+libldap-2.4-2                                                                   2.4.31-2+deb7u1            deb           
+liblocale-gettext-perl                                                          1.05-7+b1                  deb           
+liblzma5                                                                        5.1.1alpha+20120614-2      deb           
+libmount1                                                                       2.20.1-5.3                 deb           
+libncurses5                                                                     5.9-10                     deb           
+libp11-kit0                                                                     0.12-3                     deb           
+libpam-modules                                                                  1.1.3-7.1                  deb           
+libpam-modules-bin                                                              1.1.3-7.1                  deb           
+libpam-runtime                                                                  1.1.3-7.1                  deb           
+libpam0g                                                                        1.1.3-7.1                  deb           
+libreadline6                                                                    6.2+dfsg-0.1               deb           
+librtmp0                                                                        2.4+20111222.git4e06e21-1  deb           
+libsasl2-2                                                                      2.1.25.dfsg1-6+deb7u1      deb           
+libsasl2-modules                                                                2.1.25.dfsg1-6+deb7u1      deb           
+libselinux1                                                                     2.1.9-5                    deb           
+libsemanage-common                                                              2.1.6-6                    deb           
+libsemanage1                                                                    2.1.6-6                    deb           
+libsepol1                                                                       2.1.4-3                    deb           
+libslang2                                                                       2.2.4-15                   deb           
+libss2                                                                          1.42.5-1.1+deb7u1          deb           
+libssh2-1                                                                       1.4.2-1.1+deb7u1           deb           
+libssl1.0.0                                                                     1.0.1e-2+deb7u18           deb           
+libstdc++6                                                                      4.7.2-5                    deb           
+libtasn1-3                                                                      2.13-2+deb7u2              deb           
+libtext-charwidth-perl                                                          0.04-7+b1                  deb           
+libtext-iconv-perl                                                              1.7-5                      deb           
+libtext-wrapi18n-perl                                                           0.06-7                     deb           
+libtinfo5                                                                       5.9-10                     deb           
+libusb-0.1-4                                                                    2:0.1.12-20+nmu1           deb           
+libustr-1.0-1                                                                   1.0.4-3                    deb           
+libuuid1                                                                        2.20.1-5.3                 deb           
+local_policy                                                                                               java-archive  
+localedata                                                                                                 java-archive  
+login                                                                           1:4.1.5.1-1                deb           
+lsb-base                                                                        4.1+Debian8+deb7u1         deb           
+mailapi                                                                         1.4.6                      java-archive  
+management-agent                                                                                           java-archive  
+maven-aether-provider                                                           3.0.4                      java-archive  
+maven-model                                                                     3.0.4                      java-archive  
+maven-model-builder                                                             3.0.4                      java-archive  
+maven-repository-metadata                                                       3.0.4                      java-archive  
+mawk                                                                            1.3.3-17                   deb           
+mc                                                                                                         java-archive  
+metadataRepository-ant                                                                                     java-archive  
+mount                                                                           2.20.1-5.3                 deb           
+multiarch-support                                                               2.13-38+deb7u8             deb           
+nashorn                                                                         1.8.0_25-b17               java-archive  
+ncurses-base                                                                    5.9-10                     deb           
+ncurses-bin                                                                     5.9-10                     deb           
+netbase                                                                         5.0                        deb           
+notification_plugin                                                                                        java-archive  
+openssl                                                                         1.0.1e-2+deb7u18           deb           
+org-netbeans-api-annotations-common                                                                        java-archive  
+org-netbeans-api-annotations-common_ja                                                                     java-archive  
+org-netbeans-api-annotations-common_zh_CN                                                                  java-archive  
+org-netbeans-api-progress                                                                                  java-archive  
+org-netbeans-api-progress_ja                                                                               java-archive  
+org-netbeans-api-progress_zh_CN                                                                            java-archive  
+org-netbeans-api-search                                                                                    java-archive  
+org-netbeans-api-search_ja                                                                                 java-archive  
+org-netbeans-api-search_zh_CN                                                                              java-archive  
+org-netbeans-api-visual                                                                                    java-archive  
+org-netbeans-api-visual_ja                                                                                 java-archive  
+org-netbeans-api-visual_zh_CN                                                                              java-archive  
+org-netbeans-core                                                                                          java-archive  
+org-netbeans-core-execution                                                                                java-archive  
+org-netbeans-core-execution_ja                                                                             java-archive  
+org-netbeans-core-execution_zh_CN                                                                          java-archive  
+org-netbeans-core-io-ui                                                                                    java-archive  
+org-netbeans-core-io-ui_ja                                                                                 java-archive  
+org-netbeans-core-io-ui_zh_CN                                                                              java-archive  
+org-netbeans-core-multitabs                                                                                java-archive  
+org-netbeans-core-multitabs_ja                                                                             java-archive  
+org-netbeans-core-multitabs_zh_CN                                                                          java-archive  
+org-netbeans-core-multiview                                                                                java-archive  
+org-netbeans-core-multiview_ja                                                                             java-archive  
+org-netbeans-core-multiview_zh_CN                                                                          java-archive  
+org-netbeans-core-network_ja                                                                               java-archive  
+org-netbeans-core-network_zh_CN                                                                            java-archive  
+org-netbeans-core-output2                                                                                  java-archive  
+org-netbeans-core-output2_ja                                                                               java-archive  
+org-netbeans-core-output2_zh_CN                                                                            java-archive  
+org-netbeans-core-ui                                                                                       java-archive  
+org-netbeans-core-ui_ja                                                                                    java-archive  
+org-netbeans-core-ui_zh_CN                                                                                 java-archive  
+org-netbeans-core-windows                                                                                  java-archive  
+org-netbeans-core-windows_ja                                                                               java-archive  
+org-netbeans-core-windows_zh_CN                                                                            java-archive  
+org-netbeans-core_ja                                                                                       java-archive  
+org-netbeans-core_zh_CN                                                                                    java-archive  
+org-netbeans-lib-profiler                                                                                  java-archive  
+org-netbeans-lib-profiler-charts                                                                           java-archive  
+org-netbeans-lib-profiler-charts_ja                                                                        java-archive  
+org-netbeans-lib-profiler-charts_zh_CN                                                                     java-archive  
+org-netbeans-lib-profiler-common                                                                           java-archive  
+org-netbeans-lib-profiler-common_ja                                                                        java-archive  
+org-netbeans-lib-profiler-common_zh_CN                                                                     java-archive  
+org-netbeans-lib-profiler-ui                                                                               java-archive  
+org-netbeans-lib-profiler-ui_ja                                                                            java-archive  
+org-netbeans-lib-profiler-ui_zh_CN                                                                         java-archive  
+org-netbeans-lib-profiler_ja                                                                               java-archive  
+org-netbeans-lib-profiler_zh_CN                                                                            java-archive  
+org-netbeans-lib-uihandler                                                                                 java-archive  
+org-netbeans-lib-uihandler_ja                                                                              java-archive  
+org-netbeans-lib-uihandler_zh_CN                                                                           java-archive  
+org-netbeans-modules-applemenu                                                                             java-archive  
+org-netbeans-modules-applemenu_ja                                                                          java-archive  
+org-netbeans-modules-applemenu_zh_CN                                                                       java-archive  
+org-netbeans-modules-autoupdate-cli                                                                        java-archive  
+org-netbeans-modules-autoupdate-cli_ja                                                                     java-archive  
+org-netbeans-modules-autoupdate-cli_zh_CN                                                                  java-archive  
+org-netbeans-modules-autoupdate-services                                                                   java-archive  
+org-netbeans-modules-autoupdate-services_ja                                                                java-archive  
+org-netbeans-modules-autoupdate-services_zh_CN                                                             java-archive  
+org-netbeans-modules-autoupdate-ui                                                                         java-archive  
+org-netbeans-modules-autoupdate-ui_ja                                                                      java-archive  
+org-netbeans-modules-autoupdate-ui_zh_CN                                                                   java-archive  
+org-netbeans-modules-core-kit                                                                              java-archive  
+org-netbeans-modules-core-kit_ja                                                                           java-archive  
+org-netbeans-modules-core-kit_zh_CN                                                                        java-archive  
+org-netbeans-modules-editor-mimelookup                                                                     java-archive  
+org-netbeans-modules-editor-mimelookup-impl                                                                java-archive  
+org-netbeans-modules-editor-mimelookup-impl_ja                                                             java-archive  
+org-netbeans-modules-editor-mimelookup-impl_zh_CN                                                          java-archive  
+org-netbeans-modules-editor-mimelookup_ja                                                                  java-archive  
+org-netbeans-modules-editor-mimelookup_zh_CN                                                               java-archive  
+org-netbeans-modules-favorites                                                                             java-archive  
+org-netbeans-modules-favorites_ja                                                                          java-archive  
+org-netbeans-modules-favorites_zh_CN                                                                       java-archive  
+org-netbeans-modules-javahelp                                                                              java-archive  
+org-netbeans-modules-javahelp_ja                                                                           java-archive  
+org-netbeans-modules-javahelp_zh_CN                                                                        java-archive  
+org-netbeans-modules-keyring                                                                               java-archive  
+org-netbeans-modules-keyring-fallback                                                                      java-archive  
+org-netbeans-modules-keyring-fallback_ja                                                                   java-archive  
+org-netbeans-modules-keyring-fallback_zh_CN                                                                java-archive  
+org-netbeans-modules-keyring-impl                                                                          java-archive  
+org-netbeans-modules-keyring-impl_ja                                                                       java-archive  
+org-netbeans-modules-keyring-impl_zh_CN                                                                    java-archive  
+org-netbeans-modules-keyring_ja                                                                            java-archive  
+org-netbeans-modules-keyring_zh_CN                                                                         java-archive  
+org-netbeans-modules-masterfs                                                                              java-archive  
+org-netbeans-modules-masterfs_ja                                                                           java-archive  
+org-netbeans-modules-masterfs_zh_CN                                                                        java-archive  
+org-netbeans-modules-options-api                                                                           java-archive  
+org-netbeans-modules-options-api_ja                                                                        java-archive  
+org-netbeans-modules-options-api_zh_CN                                                                     java-archive  
+org-netbeans-modules-options-keymap                                                                        java-archive  
+org-netbeans-modules-options-keymap_ja                                                                     java-archive  
+org-netbeans-modules-options-keymap_zh_CN                                                                  java-archive  
+org-netbeans-modules-print                                                                                 java-archive  
+org-netbeans-modules-print_ja                                                                              java-archive  
+org-netbeans-modules-print_zh_CN                                                                           java-archive  
+org-netbeans-modules-profiler                                                                              java-archive  
+org-netbeans-modules-profiler-api                                                                          java-archive  
+org-netbeans-modules-profiler-api_ja                                                                       java-archive  
+org-netbeans-modules-profiler-api_zh_CN                                                                    java-archive  
+org-netbeans-modules-profiler-attach                                                                       java-archive  
+org-netbeans-modules-profiler-attach_ja                                                                    java-archive  
+org-netbeans-modules-profiler-attach_zh_CN                                                                 java-archive  
+org-netbeans-modules-profiler-heapwalker                                                                   java-archive  
+org-netbeans-modules-profiler-heapwalker_ja                                                                java-archive  
+org-netbeans-modules-profiler-heapwalker_zh_CN                                                             java-archive  
+org-netbeans-modules-profiler-oql                                                                          java-archive  
+org-netbeans-modules-profiler-oql_ja                                                                       java-archive  
+org-netbeans-modules-profiler-oql_zh_CN                                                                    java-archive  
+org-netbeans-modules-profiler-selector-api                                                                 java-archive  
+org-netbeans-modules-profiler-selector-api_ja                                                              java-archive  
+org-netbeans-modules-profiler-selector-api_zh_CN                                                           java-archive  
+org-netbeans-modules-profiler-selector-ui                                                                  java-archive  
+org-netbeans-modules-profiler-selector-ui_ja                                                               java-archive  
+org-netbeans-modules-profiler-selector-ui_zh_CN                                                            java-archive  
+org-netbeans-modules-profiler-snaptracer                                                                   java-archive  
+org-netbeans-modules-profiler-snaptracer_ja                                                                java-archive  
+org-netbeans-modules-profiler-snaptracer_zh_CN                                                             java-archive  
+org-netbeans-modules-profiler-utilities                                                                    java-archive  
+org-netbeans-modules-profiler-utilities_ja                                                                 java-archive  
+org-netbeans-modules-profiler-utilities_zh_CN                                                              java-archive  
+org-netbeans-modules-profiler_ja                                                                           java-archive  
+org-netbeans-modules-profiler_zh_CN                                                                        java-archive  
+org-netbeans-modules-progress-ui                                                                           java-archive  
+org-netbeans-modules-progress-ui_ja                                                                        java-archive  
+org-netbeans-modules-progress-ui_zh_CN                                                                     java-archive  
+org-netbeans-modules-queries                                                                               java-archive  
+org-netbeans-modules-queries_ja                                                                            java-archive  
+org-netbeans-modules-queries_zh_CN                                                                         java-archive  
+org-netbeans-modules-sampler                                                                               java-archive  
+org-netbeans-modules-sampler_ja                                                                            java-archive  
+org-netbeans-modules-sampler_zh_CN                                                                         java-archive  
+org-netbeans-modules-sendopts                                                                              java-archive  
+org-netbeans-modules-sendopts_ja                                                                           java-archive  
+org-netbeans-modules-sendopts_zh_CN                                                                        java-archive  
+org-netbeans-modules-settings                                                                              java-archive  
+org-netbeans-modules-settings_ja                                                                           java-archive  
+org-netbeans-modules-settings_zh_CN                                                                        java-archive  
+org-netbeans-modules-spi-actions                                                                           java-archive  
+org-netbeans-modules-spi-actions_ja                                                                        java-archive  
+org-netbeans-modules-spi-actions_zh_CN                                                                     java-archive  
+org-netbeans-modules-uihandler                                                                             java-archive  
+org-netbeans-modules-uihandler_ja                                                                          java-archive  
+org-netbeans-modules-uihandler_zh_CN                                                                       java-archive  
+org-netbeans-spi-quicksearch                                                                               java-archive  
+org-netbeans-spi-quicksearch_ja                                                                            java-archive  
+org-netbeans-spi-quicksearch_zh_CN                                                                         java-archive  
+org-netbeans-swing-outline                                                                                 java-archive  
+org-netbeans-swing-outline_ja                                                                              java-archive  
+org-netbeans-swing-outline_zh_CN                                                                           java-archive  
+org-netbeans-swing-plaf                                                                                    java-archive  
+org-netbeans-swing-plaf_ja                                                                                 java-archive  
+org-netbeans-swing-plaf_zh_CN                                                                              java-archive  
+org-netbeans-swing-tabcontrol                                                                              java-archive  
+org-netbeans-swing-tabcontrol_ja                                                                           java-archive  
+org-netbeans-swing-tabcontrol_zh_CN                                                                        java-archive  
+org-openide-actions                                                                                        java-archive  
+org-openide-actions_ja                                                                                     java-archive  
+org-openide-actions_zh_CN                                                                                  java-archive  
+org-openide-awt                                                                                            java-archive  
+org-openide-awt_ja                                                                                         java-archive  
+org-openide-awt_zh_CN                                                                                      java-archive  
+org-openide-compat                                                                                         java-archive  
+org-openide-compat_ja                                                                                      java-archive  
+org-openide-compat_zh_CN                                                                                   java-archive  
+org-openide-dialogs                                                                                        java-archive  
+org-openide-dialogs_ja                                                                                     java-archive  
+org-openide-dialogs_zh_CN                                                                                  java-archive  
+org-openide-execution                                                                                      java-archive  
+org-openide-execution_ja                                                                                   java-archive  
+org-openide-execution_zh_CN                                                                                java-archive  
+org-openide-explorer                                                                                       java-archive  
+org-openide-explorer_ja                                                                                    java-archive  
+org-openide-explorer_zh_CN                                                                                 java-archive  
+org-openide-filesystems                                                                                    java-archive  
+org-openide-filesystems_ja                                                                                 java-archive  
+org-openide-filesystems_zh_CN                                                                              java-archive  
+org-openide-io                                                                                             java-archive  
+org-openide-io_ja                                                                                          java-archive  
+org-openide-io_zh_CN                                                                                       java-archive  
+org-openide-loaders                                                                                        java-archive  
+org-openide-loaders_ja                                                                                     java-archive  
+org-openide-loaders_zh_CN                                                                                  java-archive  
+org-openide-modules                                                                                        java-archive  
+org-openide-modules_ja                                                                                     java-archive  
+org-openide-modules_zh_CN                                                                                  java-archive  
+org-openide-nodes                                                                                          java-archive  
+org-openide-nodes_ja                                                                                       java-archive  
+org-openide-nodes_zh_CN                                                                                    java-archive  
+org-openide-options                                                                                        java-archive  
+org-openide-options_ja                                                                                     java-archive  
+org-openide-options_zh_CN                                                                                  java-archive  
+org-openide-text                                                                                           java-archive  
+org-openide-text_ja                                                                                        java-archive  
+org-openide-text_zh_CN                                                                                     java-archive  
+org-openide-util                                                                                           java-archive  
+org-openide-util-enumerations                                                                              java-archive  
+org-openide-util-enumerations_ja                                                                           java-archive  
+org-openide-util-enumerations_zh_CN                                                                        java-archive  
+org-openide-util-lookup                                                                                    java-archive  
+org-openide-util-lookup_ja                                                                                 java-archive  
+org-openide-util-lookup_zh_CN                                                                              java-archive  
+org-openide-util_ja                                                                                        java-archive  
+org-openide-util_zh_CN                                                                                     java-archive  
+org-openide-windows                                                                                        java-archive  
+org-openide-windows_ja                                                                                     java-archive  
+org-openide-windows_zh_CN                                                                                  java-archive  
+org.apache.commons.codec_1.3.0.v201101211617                                    1.3.0.v201101211617        java-archive  
+org.apache.commons.httpclient_3.1.0.v201012070820                               3.1.0.v201012070820        java-archive  
+org.apache.commons.logging_1.0.4.v201101211617                                  1.0.4.v201101211617        java-archive  
+org.apache.felix.gogo.command                                                   0.8.0                      java-archive  
+org.apache.felix.gogo.command_0.8.0.v201108120515                               0.8.0.v201108120515        java-archive  
+org.apache.felix.gogo.runtime                                                   0.8.0                      java-archive  
+org.apache.felix.gogo.runtime_0.8.0.v201108120515                               0.8.0.v201108120515        java-archive  
+org.apache.felix.gogo.shell                                                     0.8.0                      java-archive  
+org.apache.felix.gogo.shell_0.8.0.v201110170705                                 0.8.0.v201110170705        java-archive  
+org.apache.jasper.glassfish_2.2.2.v201205150955                                 2.2.2.v201205150955        java-archive  
+org.apache.lucene.analysis_2.9.1.v201101211721                                  2.9.1.v201101211721        java-archive  
+org.apache.lucene.core_2.9.1.v201101211721                                      2.9.1.v201101211721        java-archive  
+org.apache.lucene_2.9.1.v201101211721                                           2.9.1.v201101211721        java-archive  
+org.eclipse.core.commands.nl_ja_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.core.commands.nl_zh_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.core.commands_3.6.1.v20120912                                       135020                     java-archive  
+org.eclipse.core.contenttype.nl_ja_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.core.contenttype.nl_zh_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.core.contenttype_3.4.200.v20120523                                  2004                       java-archive  
+org.eclipse.core.databinding.beans.nl_ja_4.2.0.v20130724060447                  4.2.0.v20130724060447      java-archive  
+org.eclipse.core.databinding.beans.nl_zh_4.2.0.v20130724060447                  4.2.0.v20130724060447      java-archive  
+org.eclipse.core.databinding.beans_1.2.200.v20120523                            1956                       java-archive  
+org.eclipse.core.databinding.nl_ja_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.core.databinding.nl_zh_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.core.databinding.observable.nl_ja_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.core.databinding.observable.nl_zh_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.core.databinding.observable_1.4.1.v20120521                         2332                       java-archive  
+org.eclipse.core.databinding.property.nl_ja_4.2.0.v20130724060447               4.2.0.v20130724060447      java-archive  
+org.eclipse.core.databinding.property.nl_zh_4.2.0.v20130724060447               4.2.0.v20130724060447      java-archive  
+org.eclipse.core.databinding.property_1.4.100.v20120523                         1956                       java-archive  
+org.eclipse.core.databinding_1.4.1.v20120912                                    135020                     java-archive  
+org.eclipse.core.expressions.nl_ja_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.core.expressions.nl_zh_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.core.expressions_3.4.400.v20120523                                  2004                       java-archive  
+org.eclipse.core.filesystem.linux.x86_64.nl_ja_4.2.0.v20130724060447            4.2.0.v20130724060447      java-archive  
+org.eclipse.core.filesystem.linux.x86_64.nl_zh_4.2.0.v20130724060447            4.2.0.v20130724060447      java-archive  
+org.eclipse.core.filesystem.nl_ja_4.2.0.v20130724060447                         4.2.0.v20130724060447      java-archive  
+org.eclipse.core.filesystem.nl_zh_4.2.0.v20130724060447                         4.2.0.v20130724060447      java-archive  
+org.eclipse.core.filesystem_1.3.200.v20130115                                   145044                     java-archive  
+org.eclipse.core.jobs.nl_ja_4.2.0.v20130724060447                               4.2.0.v20130724060447      java-archive  
+org.eclipse.core.jobs.nl_zh_4.2.0.v20130724060447                               4.2.0.v20130724060447      java-archive  
+org.eclipse.core.jobs_3.5.200.v20120521                                         2346                       java-archive  
+org.eclipse.core.net.linux.x86_64.nl_ja_4.2.0.v20130724060447                   4.2.0.v20130724060447      java-archive  
+org.eclipse.core.net.linux.x86_64.nl_zh_4.2.0.v20130724060447                   4.2.0.v20130724060447      java-archive  
+org.eclipse.core.net.nl_ja_4.2.0.v20130724060447                                4.2.0.v20130724060447      java-archive  
+org.eclipse.core.net.nl_zh_4.2.0.v20130724060447                                4.2.0.v20130724060447      java-archive  
+org.eclipse.core.net_1.2.200.v20120914                                          093638                     java-archive  
+org.eclipse.core.resources.nl_ja_4.2.0.v20130724060447                          4.2.0.v20130724060447      java-archive  
+org.eclipse.core.resources.nl_zh_4.2.0.v20130724060447                          4.2.0.v20130724060447      java-archive  
+org.eclipse.core.resources_3.8.1.v20121114                                      124432                     java-archive  
+org.eclipse.core.runtime.compatibility.auth.nl_ja_4.2.0.v20130724060447         4.2.0.v20130724060447      java-archive  
+org.eclipse.core.runtime.compatibility.auth.nl_zh_4.2.0.v20130724060447         4.2.0.v20130724060447      java-archive  
+org.eclipse.core.runtime.compatibility.auth_3.2.300.v20120523                   2004                       java-archive  
+org.eclipse.core.runtime.nl_ja_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.core.runtime.nl_zh_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.core.runtime_3.8.0.v20120521                                        2346                       java-archive  
+org.eclipse.ecf.filetransfer.nl_ja_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.filetransfer.nl_zh_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.filetransfer_5.0.0.v20120610                                    1946                       java-archive  
+org.eclipse.ecf.identity.nl_ja_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.identity.nl_zh_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.identity_3.1.200.v20120610                                      1946                       java-archive  
+org.eclipse.ecf.nl_ja_4.2.0.v20130724060447                                     4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.nl_zh_4.2.0.v20130724060447                                     4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.provider.filetransfer.httpclient.nl_ja_4.2.0.v20130724060447    4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.provider.filetransfer.httpclient.nl_zh_4.2.0.v20130724060447    4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.provider.filetransfer.httpclient.ssl_1.0.0.v20120610            1946                       java-archive  
+org.eclipse.ecf.provider.filetransfer.httpclient_4.0.200.v20120610              1946                       java-archive  
+org.eclipse.ecf.provider.filetransfer.nl_ja_4.2.0.v20130724060447               4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.provider.filetransfer.nl_zh_4.2.0.v20130724060447               4.2.0.v20130724060447      java-archive  
+org.eclipse.ecf.provider.filetransfer.ssl_1.0.0.v20120610                       1946                       java-archive  
+org.eclipse.ecf.provider.filetransfer_3.2.0.v20120610                           1946                       java-archive  
+org.eclipse.ecf.ssl_1.0.100.v20120610                                           1946                       java-archive  
+org.eclipse.ecf_3.1.300.v20120610                                               1946                       java-archive  
+org.eclipse.equinox.app.nl_ja_4.2.0.v20130724060447                             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.app.nl_zh_4.2.0.v20130724060447                             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.app_1.3.100.v20120522                                       1841                       java-archive  
+org.eclipse.equinox.bidi.nl_ja_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.bidi.nl_zh_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.bidi_0.9.100.v20121107                                      021609                     java-archive  
+org.eclipse.equinox.common.nl_ja_4.2.0.v20130724060447                          4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.common.nl_zh_4.2.0.v20130724060447                          4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.common_3.6.100.v20120522                                    1841                       java-archive  
+org.eclipse.equinox.console.nl_ja_4.2.0.v20130724060447                         4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.console.nl_zh_4.2.0.v20130724060447                         4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.console_1.0.0.v20120522                                     1841                       java-archive  
+org.eclipse.equinox.ds.nl_ja_4.2.0.v20130724060447                              4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.ds.nl_zh_4.2.0.v20130724060447                              4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.ds_1.4.1.v20120926                                          201320                     java-archive  
+org.eclipse.equinox.event.nl_ja_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.event.nl_zh_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.event_1.2.200.v20120522                                     2049                       java-archive  
+org.eclipse.equinox.frameworkadmin.equinox.nl_ja_4.2.0.v20130724060447          4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.frameworkadmin.equinox.nl_zh_4.2.0.v20130724060447          4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.frameworkadmin.equinox_1.0.400.v20120913                    155709                     java-archive  
+org.eclipse.equinox.frameworkadmin.nl_ja_4.2.0.v20130724060447                  4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.frameworkadmin.nl_zh_4.2.0.v20130724060447                  4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.frameworkadmin_2.0.100.v20120913                            155515                     java-archive  
+org.eclipse.equinox.http.jetty.nl_ja_4.2.0.v20130724060447                      4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.http.jetty.nl_zh_4.2.0.v20130724060447                      4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.http.jetty_3.0.1.v20121109                                  203239                     java-archive  
+org.eclipse.equinox.http.registry.nl_ja_4.2.0.v20130724060447                   4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.http.registry.nl_zh_4.2.0.v20130724060447                   4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.http.registry_1.1.200.v20120912                             130548                     java-archive  
+org.eclipse.equinox.http.servlet.nl_ja_4.2.0.v20130724060447                    4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.http.servlet.nl_zh_4.2.0.v20130724060447                    4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.http.servlet_1.1.300.v20120912                              130548                     java-archive  
+org.eclipse.equinox.jsp.jasper.nl_ja_4.2.0.v20130724060447                      4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.jsp.jasper.nl_zh_4.2.0.v20130724060447                      4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.jsp.jasper.registry.nl_ja_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.jsp.jasper.registry.nl_zh_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.jsp.jasper.registry_1.0.300.v20120912                       130548                     java-archive  
+org.eclipse.equinox.jsp.jasper_1.0.400.v20120912                                130548                     java-archive  
+org.eclipse.equinox.launcher.gtk.linux.x86_64.nl_ja_4.2.0.v20130724060447       4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.launcher.gtk.linux.x86_64.nl_zh_4.2.0.v20130724060447       4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.launcher.nl_ja_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.launcher.nl_zh_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.launcher_1.3.0.v20120522                                    1813                       java-archive  
+org.eclipse.equinox.p2.artifact.repository.nl_ja_4.2.0.v20130724060447          4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.artifact.repository.nl_zh_4.2.0.v20130724060447          4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.artifact.repository_1.1.200.v20120430                    1959                       java-archive  
+org.eclipse.equinox.p2.console.nl_ja_4.2.0.v20130724060447                      4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.console.nl_zh_4.2.0.v20130724060447                      4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.console_1.0.300.v20120429                                0125                       java-archive  
+org.eclipse.equinox.p2.core.nl_ja_4.2.0.v20130724060447                         4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.core.nl_zh_4.2.0.v20130724060447                         4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.core_2.2.0.v20120430                                     0525                       java-archive  
+org.eclipse.equinox.p2.director.app.nl_ja_4.2.0.v20130724060447                 4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.director.app.nl_zh_4.2.0.v20130724060447                 4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.director.app_1.0.300.v20120428                           0517                       java-archive  
+org.eclipse.equinox.p2.director.nl_ja_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.director.nl_zh_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.director_2.2.0.v20120524                                 0542                       java-archive  
+org.eclipse.equinox.p2.directorywatcher.nl_ja_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.directorywatcher.nl_zh_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.directorywatcher_1.0.300.v20110808                       1657                       java-archive  
+org.eclipse.equinox.p2.engine.nl_ja_4.2.0.v20130724060447                       4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.engine.nl_zh_4.2.0.v20130724060447                       4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.engine_2.2.0.v20130121                                   021919                     java-archive  
+org.eclipse.equinox.p2.extensionlocation.nl_ja_4.2.0.v20130724060447            4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.extensionlocation.nl_zh_4.2.0.v20130724060447            4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.extensionlocation_1.2.100.v20110808                      1657                       java-archive  
+org.eclipse.equinox.p2.garbagecollector.nl_ja_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.garbagecollector.nl_zh_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.garbagecollector_1.0.200.v20110808                       1657                       java-archive  
+org.eclipse.equinox.p2.jarprocessor.nl_ja_4.2.0.v20130724060447                 4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.jarprocessor.nl_zh_4.2.0.v20130724060447                 4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.jarprocessor_1.0.200.v20110808                           1657                       java-archive  
+org.eclipse.equinox.p2.metadata.nl_ja_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.metadata.nl_zh_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.metadata.repository.nl_ja_4.2.0.v20130724060447          4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.metadata.repository.nl_zh_4.2.0.v20130724060447          4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.metadata.repository_1.2.100.v20120524                    1717                       java-archive  
+org.eclipse.equinox.p2.metadata_2.1.0.v20120430                                 2001                       java-archive  
+org.eclipse.equinox.p2.operations.nl_ja_4.2.0.v20130724060447                   4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.operations.nl_zh_4.2.0.v20130724060447                   4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.operations_2.2.0.v20130119                               010614                     java-archive  
+org.eclipse.equinox.p2.publisher.eclipse.nl_ja_4.2.0.v20130724060447            4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.publisher.eclipse.nl_zh_4.2.0.v20130724060447            4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.publisher.eclipse_1.1.0.v20120913                        155635                     java-archive  
+org.eclipse.equinox.p2.publisher.nl_ja_4.2.0.v20130724060447                    4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.publisher.nl_zh_4.2.0.v20130724060447                    4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.publisher_1.2.0.v20121002                                080415                     java-archive  
+org.eclipse.equinox.p2.ql.nl_ja_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.ql.nl_zh_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.ql_2.0.100.v20110808                                     1657                       java-archive  
+org.eclipse.equinox.p2.reconciler.dropins.nl_ja_4.2.0.v20130724060447           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.reconciler.dropins.nl_zh_4.2.0.v20130724060447           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.reconciler.dropins_1.1.200.v20120301                     2145                       java-archive  
+org.eclipse.equinox.p2.repository.nl_ja_4.2.0.v20130724060447                   4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.repository.nl_zh_4.2.0.v20130724060447                   4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.repository_2.2.0.v20120524                               1945                       java-archive  
+org.eclipse.equinox.p2.touchpoint.eclipse.nl_ja_4.2.0.v20130724060447           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.touchpoint.eclipse.nl_zh_4.2.0.v20130724060447           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.touchpoint.eclipse_2.1.100.v20120428                     0117                       java-archive  
+org.eclipse.equinox.p2.touchpoint.natives.nl_ja_4.2.0.v20130724060447           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.touchpoint.natives.nl_zh_4.2.0.v20130724060447           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.touchpoint.natives_1.1.0.v20130121                       021919                     java-archive  
+org.eclipse.equinox.p2.transport.ecf.nl_ja_4.2.0.v20130724060447                4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.transport.ecf.nl_zh_4.2.0.v20130724060447                4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.transport.ecf_1.0.100.v20120913                          155635                     java-archive  
+org.eclipse.equinox.p2.ui.nl_ja_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.ui.nl_zh_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.ui.sdk.nl_ja_4.2.0.v20130724060447                       4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.ui.sdk.nl_zh_4.2.0.v20130724060447                       4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.ui.sdk.scheduler.nl_ja_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.ui.sdk.scheduler.nl_zh_4.2.0.v20130724060447             4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.ui.sdk.scheduler_1.1.0.v20110815                         1744                       java-archive  
+org.eclipse.equinox.p2.ui.sdk_1.0.200.v20120515                                 1650                       java-archive  
+org.eclipse.equinox.p2.ui_2.2.0.v20130119                                       010614                     java-archive  
+org.eclipse.equinox.p2.updatechecker.nl_ja_4.2.0.v20130724060447                4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.updatechecker.nl_zh_4.2.0.v20130724060447                4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.p2.updatechecker_1.1.200.v20110808                          1657                       java-archive  
+org.eclipse.equinox.preferences.nl_ja_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.preferences.nl_zh_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.preferences_3.5.1.v20121031                                 182809                     java-archive  
+org.eclipse.equinox.registry.nl_ja_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.registry.nl_zh_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.registry_3.5.200.v20120522                                  1841                       java-archive  
+org.eclipse.equinox.security.nl_ja_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.security.nl_zh_4.2.0.v20130724060447                        4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.security.ui.nl_ja_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.security.ui.nl_zh_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.security.ui_1.1.100.v20120522                               2049                       java-archive  
+org.eclipse.equinox.security_1.1.100.v20120522                                  1841                       java-archive  
+org.eclipse.equinox.simpleconfigurator.manipulator.nl_ja_4.2.0.v20130724060447  4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.simpleconfigurator.manipulator.nl_zh_4.2.0.v20130724060447  4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.simpleconfigurator.manipulator_2.0.0.v20110808              1657                       java-archive  
+org.eclipse.equinox.simpleconfigurator.nl_ja_4.2.0.v20130724060447              4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.simpleconfigurator.nl_zh_4.2.0.v20130724060447              4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.simpleconfigurator_1.0.301.v20120914                        163612                     java-archive  
+org.eclipse.equinox.util.nl_ja_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.util.nl_zh_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.equinox.util_1.0.400.v20120917                                      192807                     java-archive  
+org.eclipse.help.base.nl_ja_4.2.0.v20130724060447                               4.2.0.v20130724060447      java-archive  
+org.eclipse.help.base.nl_zh_4.2.0.v20130724060447                               4.2.0.v20130724060447      java-archive  
+org.eclipse.help.base_3.6.101.v201301310800                                     3.6.101.v201301310800      java-archive  
+org.eclipse.help.nl_ja_4.2.0.v20130724060447                                    4.2.0.v20130724060447      java-archive  
+org.eclipse.help.nl_zh_4.2.0.v20130724060447                                    4.2.0.v20130724060447      java-archive  
+org.eclipse.help.ui.nl_ja_4.2.0.v20130724060447                                 4.2.0.v20130724060447      java-archive  
+org.eclipse.help.ui.nl_zh_4.2.0.v20130724060447                                 4.2.0.v20130724060447      java-archive  
+org.eclipse.help.ui_3.5.201.v20130108                                           092756                     java-archive  
+org.eclipse.help.webapp.nl_ja_4.2.0.v20130724060447                             4.2.0.v20130724060447      java-archive  
+org.eclipse.help.webapp.nl_zh_4.2.0.v20130724060447                             4.2.0.v20130724060447      java-archive  
+org.eclipse.help.webapp_3.6.101.v20130116                                       182509                     java-archive  
+org.eclipse.help_3.6.0.v20120912                                                134126                     java-archive  
+org.eclipse.jetty.continuation_8.1.3.v20120522                                  8.1.3.v20120522            java-archive  
+org.eclipse.jetty.http.nl_ja_4.2.0.v20130724060447                              4.2.0.v20130724060447      java-archive  
+org.eclipse.jetty.http.nl_zh_4.2.0.v20130724060447                              4.2.0.v20130724060447      java-archive  
+org.eclipse.jetty.http_8.1.3.v20120522                                          8.1.3.v20120522            java-archive  
+org.eclipse.jetty.io_8.1.3.v20120522                                            8.1.3.v20120522            java-archive  
+org.eclipse.jetty.security_8.1.3.v20120522                                      8.1.3.v20120522            java-archive  
+org.eclipse.jetty.server_8.1.3.v20120522                                        8.1.3.v20120522            java-archive  
+org.eclipse.jetty.servlet_8.1.3.v20120522                                       8.1.3.v20120522            java-archive  
+org.eclipse.jetty.util_8.1.3.v20120522                                          8.1.3.v20120522            java-archive  
+org.eclipse.jface.databinding.nl_ja_4.2.0.v20130724060447                       4.2.0.v20130724060447      java-archive  
+org.eclipse.jface.databinding.nl_zh_4.2.0.v20130724060447                       4.2.0.v20130724060447      java-archive  
+org.eclipse.jface.databinding_1.6.0.v20120912                                   135020                     java-archive  
+org.eclipse.jface.nl_ja_4.2.0.v20130724060447                                   4.2.0.v20130724060447      java-archive  
+org.eclipse.jface.nl_zh_4.2.0.v20130724060447                                   4.2.0.v20130724060447      java-archive  
+org.eclipse.jface.text.nl_ja_4.2.0.v20130724060447                              4.2.0.v20130724060447      java-archive  
+org.eclipse.jface.text.nl_zh_4.2.0.v20130724060447                              4.2.0.v20130724060447      java-archive  
+org.eclipse.jface.text_3.8.2.v20121126                                          164145                     java-archive  
+org.eclipse.jface_3.8.0.v20120912                                               135020                     java-archive  
+org.eclipse.osgi.nl_ja_4.2.0.v20130724060447                                    4.2.0.v20130724060447      java-archive  
+org.eclipse.osgi.nl_zh_4.2.0.v20130724060447                                    4.2.0.v20130724060447      java-archive  
+org.eclipse.osgi.services.nl_ja_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.osgi.services.nl_zh_4.2.0.v20130724060447                           4.2.0.v20130724060447      java-archive  
+org.eclipse.osgi.services_3.3.100.v20120522                                     1822                       java-archive  
+org.eclipse.osgi_3.8.2.v20130124                                                134944                     java-archive  
+org.eclipse.rcp.nl_ja_4.2.0.v20130724060447                                     4.2.0.v20130724060447      java-archive  
+org.eclipse.rcp.nl_zh_4.2.0.v20130724060447                                     4.2.0.v20130724060447      java-archive  
+org.eclipse.rcp_3.8.1.v201301310800                                             3.8.1.v201301310800        java-archive  
+org.eclipse.swt.gtk.linux.x86_64.nl_ja_4.2.0.v20130724060447                    4.2.0.v20130724060447      java-archive  
+org.eclipse.swt.gtk.linux.x86_64.nl_zh_4.2.0.v20130724060447                    4.2.0.v20130724060447      java-archive  
+org.eclipse.swt.gtk.linux.x86_64_3.8.1.v3836b                                   3.8.1.v3836b               java-archive  
+org.eclipse.swt.nl_ja_4.2.0.v20130724060447                                     4.2.0.v20130724060447      java-archive  
+org.eclipse.swt.nl_zh_4.2.0.v20130724060447                                     4.2.0.v20130724060447      java-archive  
+org.eclipse.swt_3.8.1.v3836b                                                    3.8.1.v3836b               java-archive  
+org.eclipse.text.nl_ja_4.2.0.v20130724060447                                    4.2.0.v20130724060447      java-archive  
+org.eclipse.text.nl_zh_4.2.0.v20130724060447                                    4.2.0.v20130724060447      java-archive  
+org.eclipse.text_3.5.200.v20120523                                              1310                       java-archive  
+org.eclipse.ui.forms.nl_ja_4.2.0.v20130724060447                                4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.forms.nl_zh_4.2.0.v20130724060447                                4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.forms_3.5.200.v20120521                                          2332                       java-archive  
+org.eclipse.ui.intro.nl_ja_4.2.0.v20130724060447                                4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.intro.nl_zh_4.2.0.v20130724060447                                4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.intro_3.4.200.v20120521                                          2344                       java-archive  
+org.eclipse.ui.net.nl_ja_4.2.0.v20130724060447                                  4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.net.nl_zh_4.2.0.v20130724060447                                  4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.net_1.2.101.v20120914                                            093638                     java-archive  
+org.eclipse.ui.nl_ja_4.2.0.v20130724060447                                      4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.nl_zh_4.2.0.v20130724060447                                      4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.views.nl_ja_4.2.0.v20130724060447                                4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.views.nl_zh_4.2.0.v20130724060447                                4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.views_3.6.100.v20120521                                          2332                       java-archive  
+org.eclipse.ui.workbench.nl_ja_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.workbench.nl_zh_4.2.0.v20130724060447                            4.2.0.v20130724060447      java-archive  
+org.eclipse.ui.workbench_3.8.2.v20121128                                        133708                     java-archive  
+org.eclipse.ui_3.8.2.v20121018                                                  234953                     java-archive  
+org.eclipse.update.configurator.nl_ja_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.update.configurator.nl_zh_4.2.0.v20130724060447                     4.2.0.v20130724060447      java-archive  
+org.eclipse.update.configurator_3.3.200.v20120912                               142556                     java-archive  
+org.sat4j.core_2.3.0.v20110329                                                  2.3.0.v20110329            java-archive  
+org.sat4j.pb_2.3.0.v20110329                                                    2.3.0.v20110329            java-archive  
+passwd                                                                          1:4.1.5.1-1                deb           
+pdepublishing-ant                                                                                          java-archive  
+perl-base                                                                       5.14.2-21+deb7u2           deb           
+plexus-classworlds                                                              2.4                        java-archive  
+plexus-component-annotations                                                    1.5.5                      java-archive  
+plexus-interpolation                                                            1.14                       java-archive  
+plexus-utils                                                                    2.0.6                      java-archive  
+plugin                                                                                                     java-archive  
+pod                                                                             2.5.2                      java-archive  
+pomegranate                                                                     0.3.0                      java-archive  
+pop3                                                                            1.4.6                      java-archive  
+readline-common                                                                 6.2+dfsg-0.1               deb           
+resources                                                                       1.8.0_25                   java-archive  
+resources-ant                                                                                              java-archive  
+rjmx                                                                                                       java-archive  
+rt                                                                              1.8.0_25                   java-archive  
+runtime_registry_compatibility                                                                             java-archive  
+sa-jdi                                                                                                     java-archive  
+sed                                                                             4.2.1-10                   deb           
+sensible-utils                                                                  0.0.7                      deb           
+shimdandy-api                                                                   1.2.0                      java-archive  
+shimdandy-impl                                                                  1.2.0                      java-archive  
+sisu-inject-bean                                                                2.2.3                      java-archive  
+sisu-inject-plexus                                                              2.2.3                      java-archive  
+smtp                                                                            1.4.6                      java-archive  
+sunec                                                                           1.8.0_20                   java-archive  
+sunjce_provider                                                                 1.8.0_20                   java-archive  
+sunpkcs11                                                                       1.8.0_20                   java-archive  
+sysv-rc                                                                         2.88dsf-41+deb7u1          deb           
+sysvinit                                                                        2.88dsf-41+deb7u1          deb           
+sysvinit-utils                                                                  2.88dsf-41+deb7u1          deb           
+tar                                                                             1.26+dfsg-0.1              deb           
+tools                                                                                                      java-archive  
+tzdata                                                                          2015g-0+deb7u1             deb           
+updater                                                                                                    java-archive  
+updater_ja                                                                                                 java-archive  
+updater_zh_CN                                                                                              java-archive  
+util-linux                                                                      2.20.1-5.3                 deb           
+wagon-http                                                                      2.2                        java-archive  
+wagon-http-shared4                                                              2.2                        java-archive  
+wagon-provider-api                                                              2.2                        java-archive  
+wget                                                                            1.13.4-3+deb7u2            deb           
+xz-utils                                                                        5.1.1alpha+20120614-2      deb           
+zipfs                                                                           1.8.0_25                   java-archive  
+zlib1g                                                                          1:1.2.7.dfsg-13            deb           

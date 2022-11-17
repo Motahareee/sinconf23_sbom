@@ -1,0 +1,17 @@
+NAME                    VERSION      TYPE 
+alpine-baselayout       3.2.0-r7     apk   
+alpine-keys             2.4-r0       apk   
+apk-tools               2.10.8-r1    apk   
+busybox                 1.31.1-r22   apk   
+ca-certificates-bundle  20211220-r0  apk   
+libc-utils              0.7.2-r3     apk   
+libcrypto1.1            1.1.1n-r0    apk   
+libssl1.1               1.1.1n-r0    apk   
+libtls-standalone       2.9.1-r1     apk   
+musl                    1.1.24-r10   apk   
+musl-utils              1.1.24-r10   apk   
+nginx                   1.18.0-r3    apk   
+pcre                    8.44-r0      apk   
+scanelf                 1.2.6-r0     apk   
+ssl_client              1.31.1-r22   apk   
+zlib                    1.2.12-r0    apk   

@@ -1,0 +1,17 @@
+NAME                   VERSION           TYPE 
+alpine-baselayout      3.0.5-r2          apk   
+alpine-keys            2.1-r1            apk   
+apk-tools              2.9.1-r0          apk   
+bash                   4.4.19-r1         apk   
+busybox                1.27.2-r7         apk   
+libc-utils             0.7.1-r0          apk   
+libressl2.6-libcrypto  2.6.3-r0          apk   
+libressl2.6-libssl     2.6.3-r0          apk   
+musl                   1.1.18-r5         apk   
+musl-utils             1.1.18-r5         apk   
+ncurses-libs           6.0_p20180121-r1  apk   
+ncurses-terminfo       6.0_p20180121-r1  apk   
+ncurses-terminfo-base  6.0_p20180121-r1  apk   
+readline               7.0.003-r0        apk   
+scanelf                1.2.2-r1          apk   
+zlib                   1.2.11-r1         apk   

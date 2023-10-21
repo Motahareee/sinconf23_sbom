@@ -5,4 +5,4 @@ Containerization has become a widely adopted approach for running contemporary s
 
 
 Please cite this data as follows[^1]:
-[^1]: M. Mounesan, H. Siadati and S. Jafarikhah, "Exploring the Threat of Software Supply Chain Attacks on Containerized Applications," in International Conference on Security of Information and Networks (SINCONF), 2023, [[link-to-paper](https://www.researchgate.net/publication/374838986_Exploring_the_Threat_of_Software_Supply_Chain_Attacks_on_Containerized_Applications#fullTextFileContent)https://www.researchgate.net/publication/374838986_Exploring_the_Threat_of_Software_Supply_Chain_Attacks_on_Containerized_Applications#fullTextFileContent].
+[^1]: M. Mounesan, H. Siadati and S. Jafarikhah, "Exploring the Threat of Software Supply Chain Attacks on Containerized Applications," in International Conference on Security of Information and Networks (SINCONF), 2023, [https://www.researchgate.net/publication/374838986_Exploring_the_Threat_of_Software_Supply_Chain_Attacks_on_Containerized_Applications#fullTextFileContent]

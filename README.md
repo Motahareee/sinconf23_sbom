@@ -4,8 +4,7 @@ Containerization has become a widely adopted approach for running contemporary s
 
 ## Data decsription
  - Compiled list of Docker image name from both official and unofficial (i.e. community) containers available on DockerHub. The columns are name, star count, description and official/unofficial in order. (https://github.com/Motahareee/sinconf23_sbom/blob/main/Data/uniqueSearchFrom1to3.csv)
-- *unique_dependencies.csv* contains name of all the dependencies listed for the collected docker images.
-
+- All the dependencies retrieved from the SBOM of docker images. (https://github.com/Motahareee/sinconf23_sbom/blob/main/Data/unique_dependencies.csv)
 
 Please cite this data as follows[^1]:
 [^1]: M. Mounesan, H. Siadati and S. Jafarikhah, "Exploring the Threat of Software Supply Chain Attacks on Containerized Applications," in International Conference on Security of Information and Networks (SINCONF), 2023, [https://www.researchgate.net/publication/374838986_Exploring_the_Threat_of_Software_Supply_Chain_Attacks_on_Containerized_Applications#fullTextFileContent]
